@@ -275,6 +275,7 @@ form {
 label {
     display: block;
     font-family: 'Oswald', sans-serif;
+    margin-top: 10px;
 }
 
 input {
@@ -304,4 +305,5 @@ button {
     border-radius: 8px;
     cursor: pointer;
     padding: 8px 12px;
+    margin-top: 20px;
 }
